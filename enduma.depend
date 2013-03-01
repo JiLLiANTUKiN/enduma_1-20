@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1361601327 source:c:\users\loriano\desktop\enduma\yehey.cpp
+	"yehey.h"
+	<iostream>
+	<string>
+	<sstream>
+	<cmath>
+	<cstdlib>
+	<stdint.h>
+
+1361600709 c:\users\loriano\desktop\enduma\yehey.h
+	"math.h"
+	<string>
+	<iostream>
+	<cstdlib>
+	<vector>
+	<fstream>
+	<sstream>
+	<string.h>
+	<iomanip>
+	<set>
+
+1361602104 source:c:\users\loriano\desktop\enduma\main.cpp
+	"yehey.h"
+	<iostream>
+	<string>
+	<cstdlib>
+
+1362155958 source:c:\users\rafael.school\desktop\enduma\main.cpp
+	"yehey.h"
+	<iostream>
+	<string>
+	<cstdlib>
+
+1362155860 c:\users\rafael.school\desktop\enduma\yehey.h
+	"math.h"
+	<string>
+	<iostream>
+	<cstdlib>
+	<vector>
+	<fstream>
+	<sstream>
+	<string.h>
+	<iomanip>
+	<set>
+
+1362154272 source:c:\users\rafael.school\desktop\enduma\yehey.cpp
+	"yehey.h"
+	<iostream>
+	<string>
+	<sstream>
+	<cmath>
+	<cstdlib>
+	<stdint.h>
+
